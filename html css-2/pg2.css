@@ -1,0 +1,672 @@
+.exposies-menu-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f6f4ee;
+    width: 1512px;
+    height: 11619px;
+}
+.exposies-menu-item {
+    position: absolute;
+    top: -58px;
+    left: 348px;
+    border-radius: 30px;
+    background-color: #000;
+    width: 168px;
+    height: 29px;
+}
+.sem-ttulo-1-1 {
+    position: absolute;
+    top: 1745px;
+    left: 756px;
+    width: 815px;
+    height: 891px;
+    object-fit: cover;
+}
+.sem-ttulo-1-3 {
+    position: absolute;
+    top: 4614px;
+    left: -116px;
+    width: 815px;
+    height: 891px;
+    object-fit: cover;
+}
+.exposies {
+    position: absolute;
+    top: 260px;
+    left: 45px;
+    font-size: 71px;
+    line-height: 80px;
+    color: #100c08;
+    opacity: 0.71;
+}
+.neo-expressionismo {
+    position: absolute;
+    top: 340px;
+    left: 53px;
+    line-height: 80px;
+}
+.modernismo {
+    position: absolute;
+    top: 420px;
+    left: 53px;
+    line-height: 80px;
+}
+.surrealismo {
+    position: absolute;
+    top: 500px;
+    left: 53px;
+    line-height: 80px;
+}
+.barroco {
+    position: absolute;
+    top: 580px;
+    left: 53px;
+    line-height: 80px;
+}
+.clssica {
+    position: absolute;
+    top: 660px;
+    left: 53px;
+    line-height: 80px;
+}
+.arte-de-rua {
+    position: absolute;
+    top: 740px;
+    left: 53px;
+    line-height: 80px;
+}
+.pop-art {
+    position: absolute;
+    top: 820px;
+    left: 53px;
+    line-height: 80px;
+}
+.depositphotos-112531292-stock-icon {
+    position: absolute;
+    top: 333px;
+    left: 630px;
+    border-radius: 30px;
+    width: 850px;
+    height: 567px;
+    object-fit: cover;
+}
+.exposies-menu-inner {
+    position: absolute;
+    top: -85.5px;
+    left: 64.5px;
+    border-top: 3px solid #000;
+    box-sizing: border-box;
+    width: 934px;
+    height: 3px;
+}
+.line-div {
+    position: absolute;
+    top: 418.5px;
+    left: 43.5px;
+    border-top: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 541px;
+    height: 3px;
+}
+.exposies-menu-child1 {
+    position: absolute;
+    top: 498.5px;
+    left: 43.5px;
+    border-top: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 541px;
+    height: 3px;
+}
+.exposies-menu-child2 {
+    position: absolute;
+    top: 578.5px;
+    left: 43.5px;
+    border-top: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 541px;
+    height: 3px;
+}
+.exposies-menu-child3 {
+    position: absolute;
+    top: 658.5px;
+    left: 43.5px;
+    border-top: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 541px;
+    height: 3px;
+}
+.exposies-menu-child4 {
+    position: absolute;
+    top: 738.5px;
+    left: 43.5px;
+    border-top: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 541px;
+    height: 3px;
+}
+.exposies-menu-child5 {
+    position: absolute;
+    top: 818.5px;
+    left: 43.5px;
+    border-top: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 541px;
+    height: 3px;
+}
+.exposies-menu-child6 {
+    position: absolute;
+    top: 898.5px;
+    left: 43.5px;
+    border-top: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 541px;
+    height: 3px;
+}
+.arrow-forward-ios-icon {
+    position: absolute;
+    top: 1314px;
+    left: 5px;
+    width: 45px;
+    height: 45px;
+    object-fit: contain;
+}
+.modernismo1 {
+    position: absolute;
+    top: 980px;
+    left: 66px;
+    font-size: 71px;
+    line-height: 80px;
+    color: #100c08;
+    opacity: 0.71;
+}
+.image-4-icon {
+    position: absolute;
+    top: 1131px;
+    left: 746px;
+    border-radius: 30px;
+    width: 669px;
+    height: 376px;
+    object-fit: cover;
+}
+.image-5-icon {
+    position: absolute;
+    top: 1654px;
+    left: 393px;
+    border-radius: 30px;
+    width: 654px;
+    height: 413px;
+    object-fit: cover;
+}
+.image-6-icon {
+    position: absolute;
+    top: 1131px;
+    left: 66px;
+    border-radius: 30px;
+    width: 654px;
+    height: 376px;
+    object-fit: cover;
+}
+.museu-de-arte {
+    position: absolute;
+    top: 1523px;
+    left: 91px;
+    font-size: 40px;
+    line-height: 53px;
+    font-weight: 600;
+    display: inline-block;
+    width: 554px;
+}
+.sesc-pompia {
+    position: absolute;
+    top: 2112px;
+    left: 560px;
+    font-size: 40px;
+    line-height: 53px;
+    font-weight: 600;
+    display: inline-block;
+    width: 554px;
+}
+.instituto-moreira-salles-ims {
+    position: absolute;
+    top: 1523px;
+    left: 777px;
+    font-size: 40px;
+    line-height: 53px;
+    font-weight: 600;
+    display: inline-block;
+    width: 669px;
+}
+.arrow-forward-ios-icon1 {
+    position: absolute;
+    top: 1001px;
+    left: 563.5px;
+    width: 45px;
+    height: 45px;
+}
+.neo-expressionismo1 {
+    position: absolute;
+    top: 2269px;
+    left: 45px;
+    font-size: 71px;
+    line-height: 80px;
+    color: #100c08;
+    opacity: 0.71;
+}
+.arrow-forward-ios-icon2 {
+    position: absolute;
+    top: 2286px;
+    left: 0px;
+    width: 45px;
+    height: 45px;
+    object-fit: contain;
+}
+.galeria-verve {
+    position: absolute;
+    top: 2637px;
+    left: 893px;
+    font-size: 40px;
+    line-height: 53px;
+    font-weight: 600;
+    display: inline-block;
+    width: 516px;
+}
+.at-23-de {
+    position: absolute;
+    top: 2676px;
+    left: 898px;
+    line-height: 53px;
+    font-weight: 600;
+}
+.galeria {
+    margin: 0;
+}
+.galeria-marcelo-guarnieri-container {
+    position: absolute;
+    top: 3198px;
+    left: 92px;
+    font-size: 40px;
+    line-height: 53px;
+    font-weight: 600;
+    display: inline-block;
+    width: 455px;
+}
+.at-8-de {
+    position: absolute;
+    top: 3304px;
+    left: 92px;
+    line-height: 53px;
+    font-weight: 500;
+}
+.image-7-icon {
+    position: absolute;
+    top: 2996px;
+    left: 617px;
+    border-radius: 30px;
+    width: 792px;
+    height: 528px;
+    object-fit: cover;
+}
+.image-8-icon {
+    position: absolute;
+    top: 2423px;
+    left: 45px;
+    border-radius: 30px;
+    width: 792px;
+    height: 527px;
+    object-fit: cover;
+}
+.arrow-forward-ios-icon3 {
+    position: absolute;
+    top: 2286px;
+    left: 875px;
+    width: 45px;
+    height: 45px;
+}
+.arrow-forward-ios-icon4 {
+    position: absolute;
+    top: 3634px;
+    left: 17px;
+    width: 45px;
+    height: 45px;
+    object-fit: contain;
+}
+.surrealismo1 {
+    position: absolute;
+    top: 3606px;
+    left: 50px;
+    font-size: 71px;
+    line-height: 80px;
+    color: #100c08;
+    opacity: 0.71;
+}
+.galeria-frente {
+    position: absolute;
+    top: 3971px;
+    left: 943px;
+    font-size: 40px;
+    line-height: 53px;
+    font-weight: 600;
+    display: inline-block;
+    width: 516px;
+}
+.at-22-de {
+    position: absolute;
+    top: 4024px;
+    left: 943px;
+    line-height: 53px;
+    font-weight: 500;
+    display: inline-block;
+    width: 439px;
+    height: 76px;
+}
+.galeria-de-arte {
+    position: absolute;
+    top: 4552px;
+    left: 62px;
+    font-size: 40px;
+    line-height: 53px;
+    font-weight: 600;
+    display: inline-block;
+    width: 515px;
+}
+.at-12-de {
+    position: absolute;
+    top: 4658px;
+    left: 62px;
+    line-height: 53px;
+    font-weight: 500;
+}
+.image-9-icon {
+    position: absolute;
+    top: 3760px;
+    left: 50px;
+    border-radius: 30px;
+    width: 792px;
+    height: 552px;
+    object-fit: cover;
+}
+.image-10-icon {
+    position: absolute;
+    top: 4333px;
+    left: 612px;
+    border-radius: 30px;
+    width: 797px;
+    height: 598px;
+    object-fit: cover;
+}
+.arrow-forward-ios-icon5 {
+    position: absolute;
+    top: 3623px;
+    left: 572px;
+    width: 45px;
+    height: 45px;
+}
+.barroco1 {
+    position: absolute;
+    top: 4986px;
+    left: 35px;
+    font-size: 71px;
+    line-height: 80px;
+    color: #100c08;
+    opacity: 0.71;
+}
+.arrow-forward-ios-icon6 {
+    position: absolute;
+    top: 5003px;
+    left: -10px;
+    width: 45px;
+    height: 45px;
+    object-fit: contain;
+}
+.farol-santander {
+    position: absolute;
+    top: 5363px;
+    left: 946px;
+    font-size: 40px;
+    line-height: 53px;
+    font-weight: 600;
+    display: inline-block;
+    width: 516px;
+}
+.at-3-de {
+    position: absolute;
+    top: 5416px;
+    left: 953px;
+    line-height: 53px;
+    font-weight: 500;
+}
+.museu-de-arte1 {
+    position: absolute;
+    top: 5949px;
+    left: 66px;
+    font-size: 40px;
+    line-height: 53px;
+    font-weight: 600;
+    display: inline-block;
+    width: 452px;
+}
+.image-icon {
+    position: absolute;
+    top: 5140px;
+    left: 35px;
+    border-radius: 30px;
+    width: 792px;
+    height: 552px;
+    object-fit: cover;
+}
+.arrow-forward-ios-icon7 {
+    position: absolute;
+    top: 4989px;
+    left: 382px;
+    width: 54.5px;
+    height: 59px;
+}
+.image-icon1 {
+    position: absolute;
+    top: 5713px;
+    left: 612px;
+    border-radius: 30px;
+    width: 797px;
+    height: 598px;
+    object-fit: cover;
+}
+.permanente {
+    position: absolute;
+    top: 6055px;
+    left: 66px;
+    line-height: 53px;
+    font-weight: 500;
+}
+.sem-ttulo-1-2 {
+    position: absolute;
+    top: 86px;
+    left: 96px;
+    width: 84px;
+    height: 92px;
+    object-fit: cover;
+}
+.home {
+    position: absolute;
+    top: 111px;
+    left: 378px;
+    font-size: 32px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.novos-artistas {
+    position: absolute;
+    top: 111px;
+    left: 1043px;
+    font-size: 32px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.exposies-menu-child7 {
+    position: absolute;
+    top: 76.5px;
+    left: 545.5px;
+    border-right: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 3px;
+    height: 103px;
+}
+.exposies-menu-child8 {
+    position: absolute;
+    top: 76.5px;
+    left: 972.5px;
+    border-right: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 3px;
+    height: 103px;
+}
+.group-icon {
+    position: absolute;
+    top: 211px;
+    left: 0px;
+    max-height: 100%;
+    width: 1512px;
+}
+.exposies1 {
+    position: absolute;
+    top: 111px;
+    left: 664px;
+    font-size: 32px;
+    font-weight: 500;
+}
+.ellipse-div {
+    position: absolute;
+    top: 115px;
+    left: 895px;
+    border-radius: 50%;
+    background-color: #53539f;
+    width: 27px;
+    height: 27px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #9c8dee;
+    width: 1512px;
+    height: 288px;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px;
+    background-color: #6951eb;
+    width: 164px;
+    height: 35px;
+}
+.exposies2 {
+    position: absolute;
+    top: 3px;
+    left: 8px;
+}
+.rectangle-group {
+    position: absolute;
+    top: 183px;
+    left: 629px;
+    width: 164px;
+    height: 35px;
+}
+.group-inner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px;
+    background-color: #6951eb;
+    width: 223px;
+    height: 35px;
+}
+.rectangle-container {
+    position: absolute;
+    top: 182px;
+    left: 923px;
+    width: 223px;
+    height: 35px;
+    cursor: pointer;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px;
+    background-color: #6951eb;
+    width: 135px;
+    height: 35px;
+}
+.incio {
+    position: absolute;
+    top: 3px;
+    left: 21px;
+}
+.group-div {
+    position: absolute;
+    top: 182px;
+    left: 364px;
+    width: 135px;
+    height: 35px;
+    cursor: pointer;
+}
+.sem-ttulo-3-1-1 {
+    position: absolute;
+    top: 43px;
+    left: 45px;
+    width: 317px;
+    height: 59px;
+    object-fit: cover;
+}
+.image-1-icon {
+    position: absolute;
+    top: 7.17px;
+    left: 65.96px;
+    width: 54.5px;
+    height: 58.8px;
+    object-fit: cover;
+}
+.image-2-icon {
+    position: absolute;
+    top: 7.17px;
+    left: 130.49px;
+    width: 47.3px;
+    height: 63.1px;
+    object-fit: cover;
+}
+.image-3-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 55.9px;
+    height: 76px;
+    object-fit: cover;
+}
+.image-1-parent {
+    position: absolute;
+    top: 163px;
+    left: 1276px;
+    width: 177.8px;
+    height: 76px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 6368px;
+    left: 0px;
+    width: 1512px;
+    height: 288px;
+    color: #f6f4ee;
+}
+.exposies-menu {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 6654px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #52504b;
+    font-family: Sono;
+}
+

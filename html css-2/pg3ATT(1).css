@@ -1,0 +1,423 @@
+.novos-artistas-menu-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f6f4ee;
+    width: 2000px;
+    height: 2924px;
+}
+.sem-ttulo-1-1 {
+    position: absolute;
+    top: 1866px;
+    left: 602px;
+    width: 815px;
+    height: 891px;
+    object-fit: cover;
+}
+.novos-artistas-menu-item {
+    position: absolute;
+    top: -85.5px;
+    left: 64.5px;
+    border-top: 3px solid #000;
+    box-sizing: border-box;
+    width: 934px;
+    height: 3px;
+}
+.novos-artistas {
+    position: absolute;
+    top: 260px;
+    left: 45px;
+    font-size: 71px;
+    line-height: 80px;
+    color: #100c08;
+    opacity: 0.71;
+}
+.maxwell-alexandre {
+    position: absolute;
+    top: 340px;
+    left: 53px;
+    line-height: 80px;
+}
+.takashi-murakami {
+    position: absolute;
+    top: 420px;
+    left: 53px;
+    line-height: 80px;
+}
+.tunga {
+    position: absolute;
+    top: 500px;
+    left: 53px;
+    line-height: 80px;
+}
+.beatriz-milhazes {
+    position: absolute;
+    top: 580px;
+    left: 53px;
+    line-height: 80px;
+}
+.bansky {
+    position: absolute;
+    top: 660px;
+    left: 53px;
+    line-height: 80px;
+}
+.ernesto-neto {
+    position: absolute;
+    top: 740px;
+    left: 53px;
+    line-height: 80px;
+}
+.vik-muniz {
+    position: absolute;
+    top: 820px;
+    left: 53px;
+    line-height: 80px;
+}
+.novos-artistas-menu-inner {
+    position: absolute;
+    top: 418.5px;
+    left: 43.5px;
+    border-top: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 541px;
+    height: 3px;
+}
+.line-div {
+    position: absolute;
+    top: 498.5px;
+    left: 43.5px;
+    border-top: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 541px;
+    height: 3px;
+}
+.novos-artistas-menu-child1 {
+    position: absolute;
+    top: 578.5px;
+    left: 43.5px;
+    border-top: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 541px;
+    height: 3px;
+}
+.novos-artistas-menu-child2 {
+    position: absolute;
+    top: 658.5px;
+    left: 43.5px;
+    border-top: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 541px;
+    height: 3px;
+}
+.novos-artistas-menu-child3 {
+    position: absolute;
+    top: 738.5px;
+    left: 43.5px;
+    border-top: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 541px;
+    height: 3px;
+}
+.novos-artistas-menu-child4 {
+    position: absolute;
+    top: 818.5px;
+    left: 43.5px;
+    border-top: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 541px;
+    height: 3px;
+}
+.novos-artistas-menu-child5 {
+    position: absolute;
+    top: 898.5px;
+    left: 43.5px;
+    border-top: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 541px;
+    height: 3px;
+}
+.f3d1c53341aa95a513c03c9949b0d5-icon {
+    position: absolute;
+    top: 260px;
+    left: 791px;
+    border-radius: 30px;
+    width: 606px;
+    height: 636px;
+    object-fit: cover;
+}
+.maxwell {
+    margin: 0;
+}
+.maxwell-alexandre1 {
+    position: absolute;
+    top: 1010px;
+    left: 772px;
+    font-size: 71px;
+    line-height: 80px;
+    color: #100c08;
+    opacity: 0.71;
+}
+.cb163eebd686cbc3ec803879be856d-icon {
+    position: absolute;
+    top: 1025px;
+    left: 66px;
+    border-radius: 30px;
+    width: 564px;
+    height: 663px;
+    object-fit: cover;
+}
+.maxwell-alexandre-container {
+    position: absolute;
+    top: 1203px;
+    left: 778px;
+    font-size: 20px;
+    line-height: 33px;
+    font-weight: 300;
+    display: inline-block;
+    width: 619px;
+}
+.novos-artistas-menu-child6 {
+    position: absolute;
+    top: 978.5px;
+    left: 702.5px;
+    border-right: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 3px;
+    height: 751px;
+}
+.arrow-forward-ios-icon {
+    position: absolute;
+    top: 1062px;
+    left: 1246px;
+    width: 45px;
+    height: 45px;
+}
+.takashi-murakami1 {
+    position: absolute;
+    top: 1838px;
+    left: 772px;
+    font-size: 71px;
+    line-height: 80px;
+    color: #100c08;
+    opacity: 0.71;
+}
+.image-icon {
+    position: absolute;
+    top: 1853px;
+    left: 66px;
+    border-radius: 30px;
+    width: 564px;
+    height: 663px;
+    object-fit: cover;
+}
+.takashi-murakami2 {
+    position: absolute;
+    top: 2031px;
+    left: 778px;
+    font-size: 20px;
+    line-height: 33px;
+    font-weight: 300;
+    display: inline-block;
+    width: 619px;
+}
+.novos-artistas-menu-child7 {
+    position: absolute;
+    top: 1806.5px;
+    left: 702.5px;
+    border-right: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 3px;
+    height: 751px;
+}
+.sem-ttulo-1-2 {
+    position: absolute;
+    top: 86px;
+    left: 96px;
+    width: 84px;
+    height: 92px;
+    object-fit: cover;
+}
+.home {
+    position: absolute;
+    top: 111px;
+    left: 378px;
+    font-size: 32px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.exposies {
+    position: absolute;
+    top: 111px;
+    left: 664px;
+    font-size: 32px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.novos-artistas-menu-child8 {
+    position: absolute;
+    top: 76.5px;
+    left: 545.5px;
+    border-right: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 3px;
+    height: 103px;
+}
+.novos-artistas-menu-child9 {
+    position: absolute;
+    top: 76.5px;
+    left: 972.5px;
+    border-right: 3px solid #52504b;
+    box-sizing: border-box;
+    width: 3px;
+    height: 103px;
+}
+.group-icon {
+    position: absolute;
+    top: 211px;
+    left: 0px;
+    max-height: 100%;
+    width: 1512px;
+}
+.novos-artistas1 {
+    position: absolute;
+    top: 111px;
+    left: 1043px;
+    font-size: 32px;
+    font-weight: 500;
+}
+.ellipse-div {
+    position: absolute;
+    top: 113px;
+    left: 1390px;
+    border-radius: 50%;
+    background-color: #53539f;
+    width: 27px;
+    height: 27px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #9c8dee;
+    width: 2000px;
+    height: 288px;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px;
+    background-color: #6951eb;
+    width: 164px;
+    height: 35px;
+}
+.exposies1 {
+    position: absolute;
+    top: 3px;
+    left: 8px;
+}
+.rectangle-group {
+    position: absolute;
+    top: 183px;
+    left: 629px;
+    width: 164px;
+    height: 35px;
+    cursor: pointer;
+}
+.group-inner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px;
+    background-color: #6951eb;
+    width: 223px;
+    height: 35px;
+}
+.rectangle-container {
+    position: absolute;
+    top: 182px;
+    left: 923px;
+    width: 223px;
+    height: 35px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px;
+    background-color: #6951eb;
+    width: 135px;
+    height: 35px;
+}
+.incio {
+    position: absolute;
+    top: 3px;
+    left: 21px;
+}
+.group-div {
+    position: absolute;
+    top: 182px;
+    left: 364px;
+    width: 135px;
+    height: 35px;
+}
+.sem-ttulo-3-1-1 {
+    position: absolute;
+    top: 43px;
+    left: 45px;
+    width: 317px;
+    height: 59px;
+    object-fit: cover;
+}
+.image-1-icon {
+    position: absolute;
+    top: 7.17px;
+    left: 65.96px;
+    width: 54.5px;
+    height: 58.8px;
+    object-fit: cover;
+}
+.image-2-icon {
+    position: absolute;
+    top: 7.17px;
+    left: 130.49px;
+    width: 47.3px;
+    height: 63.1px;
+    object-fit: cover;
+}
+.image-3-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 55.9px;
+    height: 76px;
+    object-fit: cover;
+}
+.image-1-parent {
+    position: absolute;
+    top: 163px;
+    left: 1276px;
+    width: 177.8px;
+    height: 76px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 2637px;
+    left: 0px;
+    width: 1512px;
+    height: 288px;
+    color: #f6f4ee;
+}
+.novos-artistas-menu {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 2924px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #52504b;
+    font-family: Sono;
+}
+
